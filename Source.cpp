@@ -5,7 +5,8 @@ DWORD WINAPI Looper(LPVOID lpParam) {
 		Sleep(100);
 		if (GetAsyncKeyState(VK_F7)) {
 			staticgamecontext* pGC = (staticgamecontext*)(DWORD64*)(0x14428A188);
-			DWORD64 Palpy = pGC->ClientGameContext->Level->Teams->TeamDark->TeamData->Heroes->HeroArray[7]->SwapPtr;
+			DWORD64 Palpy = 
+pGC->ClientGameContext->Level->Teams->TeamDark->TeamData->Heroes->HeroArray[3]->SwapPtr;
 
 			pGC->ClientGameContext->Level->Teams->TeamLight->TeamData->Soldiers->SoldierClasses->Assault->SwapPtr = Palpy;
 			pGC->ClientGameContext->Level->Teams->TeamLight->TeamData->Soldiers->SoldierClasses->Heavy->SwapPtr = Palpy;
