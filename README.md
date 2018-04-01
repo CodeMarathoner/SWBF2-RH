@@ -3,7 +3,7 @@ Star Wars Battlefront 2 (2017) Reddit Hack
 
 This is a brand new hack for Star Wars Battlefront 2 (2017) supported by the /r/StarWarsBattlefront community on Reddit.
 
-Video: https://www.youtube.com/watch?v=Wlbj5WXwDQw
+Video: https://bit.ly/2uxua68
 
 Features:
 * Aimbot
