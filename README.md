@@ -6,6 +6,7 @@ This is a brand new hack for Star Wars Battlefront 2 (2017) supported by the /r/
 Video: https://bit.ly/2uxua68
 
 Features:
+* Changes All Skins to Palpatine's (no, really does)
 * Aimbot
 * Damage mod
 * ESP
@@ -15,3 +16,7 @@ Features:
 * Blaster switcher (use any blaster you want on any class or hero!)
 
 Enjoy!
+
+![](https://s31.postimg.org/5kra25xrv/image.png)
+
+memes
